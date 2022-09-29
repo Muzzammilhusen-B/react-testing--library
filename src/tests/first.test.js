@@ -9,6 +9,6 @@ describe("First test going to run", () => {
     render(<First />);
 
     // eslint-disable-next-line testing-library/no-debugging-utils
-    screen.debug();
+    // screen.debug();
   });
 });
